@@ -9,9 +9,7 @@
 
 **Beat the ATS, Impress the Recruiter**
 
-[Live Demo](https://resumegenius-ai.streamlit.app/) 
-[Report Bug](https://github.com/KanavChauhan23/resume-genius-ai/issues)  
-[Request Feature](https://github.com/KanavChauhan23/resume-genius-ai/issues)
+[Live Demo](https://resumegenius-ai.streamlit.app/) • [Report Bug](https://github.com/KanavChauhan23/resume-genius-ai/issues) • [Request Feature](https://github.com/KanavChauhan23/resume-genius-ai/issues)
 
 *Get instant ATS scores and professional feedback on your resume*
 
@@ -306,4 +304,3 @@ If you found this helpful, please give it a ⭐!
 [⬆ Back to Top](#-resumegenius-ai)
 
 </div>
-
