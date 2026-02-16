@@ -67,6 +67,31 @@
 
 ---
 
+## 📸 Screenshots
+
+<div align="center">
+
+### 🏠 Home Interface
+![ResumeGenius AI Home](screenshots/home.png)
+*Upload your resume and paste job description for instant analysis*
+
+### 📊 Score Results
+![Analysis Scores](screenshots/scores.png)
+*Dual scoring system: ATS similarity and AI evaluation scores*
+
+### 📝 Detailed Analysis
+![AI Analysis Report](screenshots/analysis.png)
+*Comprehensive feedback with strengths, weaknesses, and actionable suggestions*
+
+</div>
+
+> **Note:** To add screenshots to your own fork, create a `screenshots/` folder and upload:
+> - `home.png` - Initial upload screen
+> - `scores.png` - Results with both scores displayed
+> - `analysis.png` - Full AI analysis report
+
+---
+
 ## 🚀 Live Demo
 
 **Try it now:** [link](https://resumegenius-ai.streamlit.app/)
@@ -304,4 +329,5 @@ If you found this helpful, please give it a ⭐!
 [⬆ Back to Top](#-resumegenius-ai)
 
 </div>
+
 
