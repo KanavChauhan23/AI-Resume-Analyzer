@@ -395,14 +395,6 @@ st.markdown("")
 # Simple centered text - NO complex HTML
 st.markdown("<h4 style='text-align: center;'>Built with ❤️ by Kanav Chauhan</h4>", unsafe_allow_html=True)
 
-# GitHub links in columns
-col1, col2, col3 = st.columns([1, 1, 1])
-with col1:
-    st.markdown("")
-with col2:
-    st.markdown("[📂 View Source](https://github.com/KanavChauhan23/resume-genius-ai) • [💻 GitHub Profile](https://github.com/KanavChauhan23)")
-with col3:
-    st.markdown("")
-
 # Simple taglines
 st.markdown("<p style='text-align: center; color: gray;'>ResumeGenius AI - Beat the ATS, Get Your Dream Job</p>", unsafe_allow_html=True)
+
