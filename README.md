@@ -72,15 +72,15 @@
 <div align="center">
 
 ### 🏠 Home Interface
-![ResumeGenius AI Home](screenshots/home.png)
+![ResumeGenius AI Home](screenshot/home.png)
 *Upload your resume and paste job description for instant analysis*
 
 ### 📊 Score Results
-![Analysis Scores](screenshots/scores.png)
+![Analysis Scores](screenshot/score.png)
 *Dual scoring system: ATS similarity and AI evaluation scores*
 
 ### 📝 Detailed Analysis
-![AI Analysis Report](screenshots/analysis.png)
+![AI Analysis Report](screenshot/analysis.png)
 *Comprehensive feedback with strengths, weaknesses, and actionable suggestions*
 
 </div>
@@ -329,5 +329,6 @@ If you found this helpful, please give it a ⭐!
 [⬆ Back to Top](#-resumegenius-ai)
 
 </div>
+
 
 
