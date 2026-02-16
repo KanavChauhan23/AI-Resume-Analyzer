@@ -69,7 +69,7 @@
 
 ## 🚀 Live Demo
 
-**Try it now:** [YOUR-STREAMLIT-URL-HERE](#)
+**Try it now:** [link](https://resumegenius-ai.streamlit.app/)
 
 ### Sample Workflow
 1. Upload your resume (PDF)
@@ -304,3 +304,4 @@ If you found this helpful, please give it a ⭐!
 [⬆ Back to Top](#-resumegenius-ai)
 
 </div>
+
