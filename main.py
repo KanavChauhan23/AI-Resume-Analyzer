@@ -379,6 +379,7 @@ with st.sidebar:
 # Footer
 st.markdown("---")
 
+# LinkedIn button centered
 col1, col2, col3 = st.columns([1, 1, 1])
 with col2:
     st.link_button(
@@ -388,22 +389,20 @@ with col2:
         type="primary"
     )
 
-st.markdown("")  # Spacing
+st.markdown("")
+st.markdown("")
 
-st.markdown("""
-<div style='text-align: center; color: #666; margin-top: 1rem;'>
-    <p style='font-size: 1.2rem; font-weight: 600; margin-bottom: 0.5rem;'>Built with love by Kanav Chauhan</p>
-    
-    <p style='font-size: 0.85rem; margin-top: 1rem; color: #999;'>
-        <a href='https://github.com/KanavChauhan23/resume-genius-ai' target='_blank' style='color: #667eea; text-decoration: none; margin: 0 8px;'>View Source Code</a> |
-        <a href='https://github.com/KanavChauhan23' target='_blank' style='color: #667eea; text-decoration: none; margin: 0 8px;'>GitHub Profile</a>
-    </p>
-    
-    <p style='font-size: 0.9rem; margin-top: 1.5rem; color: #888;'>
-        ResumeGenius AI - Get Your Dream Job Faster
-    </p>
-    <p style='font-size: 0.8rem; color: #aaa; margin-top: 0.5rem;'>
-        Beat the ATS, Impress the Recruiter
-    </p>
-</div>
-""", unsafe_allow_html=True)
+# Simple centered text - NO complex HTML
+st.markdown("<h4 style='text-align: center;'>Built with ❤️ by Kanav Chauhan</h4>", unsafe_allow_html=True)
+
+# GitHub links in columns
+col1, col2, col3 = st.columns([1, 1, 1])
+with col1:
+    st.markdown("")
+with col2:
+    st.markdown("[📂 View Source](https://github.com/KanavChauhan23/resume-genius-ai) • [💻 GitHub Profile](https://github.com/KanavChauhan23)")
+with col3:
+    st.markdown("")
+
+# Simple taglines
+st.markdown("<p style='text-align: center; color: gray;'>ResumeGenius AI - Beat the ATS, Get Your Dream Job</p>", unsafe_allow_html=True)
